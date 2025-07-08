@@ -2,10 +2,17 @@
 <h3 align="center">Aspiring Data Analyst | SQL · Python · Tableau · Excel</h3>
 
 <p align="center">
-  <a href="mailto:zhiaoli1@asu.edu"><img src="https://img.shields.io/badge/Email-zhiaoli1%40asu.edu-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/leo111112"><img src="https://img.shields.io/github/followers/leo111112?label=GitHub&style=social"></a>
-  <a href="https://www.linkedin.com/in/zhiaoli1"><img src="[https://img.shields.io/badge/LinkedIn-Zhiao%20Li-blue?style=flat-square&logo=linkedin](https://www.linkedin.com/in/zhiao-li-b92441302/)"></a>
+  <a href="mailto:zhiaoli1@asu.edu">
+    <img src="https://img.shields.io/badge/Email-zhiaoli1%40asu.edu-blue?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/leo111112">
+    <img src="https://img.shields.io/github/followers/leo111112?label=GitHub&style=social" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/zhiao-li-b92441302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zhiao%20Li-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
+
 
 ---
 
