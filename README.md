@@ -18,10 +18,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 Master of Business Analytics, Arizona State University (2025)  
-📊 Passionate about turning complex data into clear business insights  
-🚀 Experienced in working with hospital data, pricing analytics, supply chain trends  
-🌍 Seeking opportunities in Data Analytics, BI, and Operations Strategy  
+🎓 Master of Science in Business Analytics, Arizona State University (2025)  
+📐 Bachelor of Science in Mathematics, [Your University Name]  
+📊 Solid foundation in statistics and data analytics, with hands-on experience in hospital data, supplier pricing, and SQL case solving  
+🧠 Skilled in identifying root causes of data issues, building recovery pipelines, and supporting operational decisions  
+🚀 Built Tableau dashboards and Excel models to visualize supply chain and pricing trends  
+🌐 Actively seeking full-time roles in Data Analytics · BI · Supply Chain Analytics · Operations Strategy  
+
 
 ---
 
@@ -37,17 +40,21 @@
 ---
 
 ### 🧠 SQL Case Library
-> Solved 30+ real-world SQL challenges covering joins, window functions, aggregations, subqueries, and nested logic.  
-Each query is well documented with `.sql` files and explanatory notes.  
-**Tools**: PostgreSQL · MySQL · LeetCode-style  
+
+Solved **50+ SQL challenges** from LeetCode, focusing on **joins**, **window functions**, **aggregations**, **subqueries**, and advanced cases like **consecutive actions**, **top-N by group**, and **running totals**.  
+Each query includes clear `.sql` files and logic explanations, tailored to simulate real-world business analytics.  
+**Tools:** MySQL · PostgreSQL · ExcelSQL · LeetCode-style  
 🔗 [Explore SQL Cases](https://github.com/leo111112/sql-practice)
 
 ---
 
-### 💊 Pharmacy Price Tracker
-> Cleaned inconsistent Excel-based price lists from multiple suppliers using Python (pandas), then built dynamic pivot tables and charts in Excel to track price trends across drug classes.  
-**Tools**: Python · Excel · Data Wrangling · Visualization  
-🔗 [View Tracker Demo](https://github.com/leo111112/pharmacy-pricing)
+### 🛠 Xunyang Data Recovery Project
+
+Resolved a high-impact **data loss issue** in a client-side procurement system.  
+Independently traced the root cause through multiple departments despite initial pushback, successfully **recovered and reintegrated** critical records.  
+Built a complete data tracking and recovery pipeline and proposed a **sustainable validation check system**.  
+**Impact:** Enabled full reporting, restored historical logs, and improved audit preparedness.  
+**Tools:** Excel · SQL · Communication · Process Optimization  
 
 ---
 
@@ -72,7 +79,7 @@ Each query is well documented with `.sql` files and explanatory notes.
 ## 📫 Contact Me
 
 - GitHub: https://github.com/leo111112
-- LinkedIn: https://www.linkedin.com/in/zhiaoli1/
+- LinkedIn: [https://www.linkedin.com/in/zhiaoli1/](https://www.linkedin.com/in/zhiao-li-b92441302/)
 - Email: zhiaoli1@asu.edu
 
 
