@@ -19,7 +19,7 @@
 ## 👩‍💻 About Me
 
 🎓 Master of Science in Business Analytics, Arizona State University (2025)  
-📐 Bachelor of Science in Mathematics, [Your University Name]  
+📐 Bachelor of Science in Mathematics,  Arizona State University (2024)  
 📊 Solid foundation in statistics and data analytics, with hands-on experience in hospital data, supplier pricing, and SQL case solving  
 🧠 Skilled in identifying root causes of data issues, building recovery pipelines, and supporting operational decisions  
 🚀 Built Tableau dashboards and Excel models to visualize supply chain and pricing trends  
